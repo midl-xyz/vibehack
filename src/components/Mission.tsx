@@ -23,14 +23,14 @@ const Mission: React.FC = () => {
             <h3>Midl Power</h3>
             <p>
               Experience the friction-free power of Midl infrastructure. If you know how
-              to prompt or write Solidity, you already know how to build on Bitcoin.
+              to prompt, you already know how to build on Bitcoin.
             </p>
           </div>
 
           <div className="glass-card hover-lift">
             <h3>Make it Pop</h3>
             <p>
-              We are raising the bar on visuals. No default, lifeless AI-generated UIs.
+              We are raising the bar on visuals. No default UIs.
               Your app should feel like a product.
             </p>
           </div>
