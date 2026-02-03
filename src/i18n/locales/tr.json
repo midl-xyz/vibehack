@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Midl VibeHack BTC",
+    "title": {
+      "line1": "Bitcoin üzerinde inşa etmek",
+      "line2": "zordu."
+    },
+    "subtitle": {
+      "line1": "Artık değil.",
+      "line2": "Midl Vibe Kodlama Yarışmasına hoş geldiniz.",
+      "line3": "Bu normal bir hackathon değil, bu bir oyun alanı."
+    },
+    "buttons": {
+      "learnMore": "Daha Fazla Bilgi",
+      "submit": "dApp'inizi Gönderin"
+    },
+    "deadline": "Son teslim tarihine kadar",
+    "typewriter": "Bu, en kıdemli geliştiricimiz tarafından yapıldı. Tek bir satır koda bakmadı. Bunu kabul edin"
+  },
+  "mission": {
+    "title": "Görev",
+    "lead": "\"Ya olsaydı?\"den \"İşlem onaylandı.\"ya",
+    "cards": {
+      "vibeCode": {
+        "title": "Vibe Kodlama",
+        "description": "Ham bir fikir alın, geliştirmeyi hızlandırmak için yapay zeka kullanın ve aylar yerine günler içinde Midl testnet'te çalışan bir konsept çalıştırın."
+      },
+      "midlPower": {
+        "title": "Midl'ın Gücü",
+        "description": "Midl altyapısının sürtünmesiz gücünü deneyimleyin. Prompt atmayı biliyorsanız, Bitcoin üzerinde nasıl inşa edeceğinizi zaten biliyorsunuz."
+      },
+      "makeItPop": {
+        "title": "Dikkat Çekici Yapın",
+        "description": "Görsel standartları yükseltiyoruz. Varsayılan UI yok. Uygulamanız bir ürün gibi hissettirmeli."
+      }
+    },
+    "requirements": {
+      "title": "Gereksinimler",
+      "steps": {
+        "step1": {
+          "title": "Ön Yüz Tasarımı",
+          "description": "Uygun bir UI ile AI tasarım becerilerinizi sergileyin."
+        },
+        "step2": {
+          "title": "Kullanıcı Akışı",
+          "description": "Kullanıcı, arayüzünüzde bir eylem tetikler."
+        },
+        "step3": {
+          "title": "Mantık ve Etkileşim",
+          "description": "Eylem, Midl altyapısı (RPC/SDK) ile etkileşime girer."
+        },
+        "step4": {
+          "title": "Zincir Üstü Kanıt",
+          "description": "Sonuç, işlem hash'i ile doğrulanabilir."
+        },
+        "step5": {
+          "title": "Geri Bildirim Döngüsü",
+          "description": "Arayüz, yeni durumu yansıtacak şekilde güncellenir."
+        }
+      }
+    },
+    "deliverables": {
+      "title": "Gerekli Teslimler",
+      "subtitle": "Yerel olarak çalışıyorsa dağıtım gerekli değildir.",
+      "items": {
+        "videoDemo": {
+          "title": "Video Demo",
+          "description": "Tam döngü: Uygulama gösterimi, cüzdan bağlantısı, kullanıcı eylemi, imzalama, arayüz güncellemesi."
+        },
+        "transactionProof": {
+          "title": "İşlem Kanıtı",
+          "description": "Dağıtılan sözleşmelere ve başarılı işlemlere bağlantılar."
+        },
+        "codeRepository": {
+          "title": "Kod Deposu",
+          "description": "Depo bağlantısı veya kod demo videosu."
+        },
+        "publicPost": {
+          "title": "Herkese Açık Gönderi",
+          "description": "Başvurunuzun sosyal medya gönderisi bağlantısı."
+        }
+      }
+    }
+  },
+  "timeline": {
+    "title": "Plan",
+    "sectionTitle": "Zaman Çizelgesi",
+    "prizes": {
+      "grand": {
+        "title": "Büyük Ödül",
+        "amount": "$1000 USDT",
+        "description": "En iyi vibe kodlayıcı için."
+      },
+      "community": {
+        "title": "Topluluk Ödülü",
+        "amount": "CLAUDE kredisi",
+        "description": "İlk 5 katılımcı için $200 kredi"
+      }
+    },
+    "phases": {
+      "kickoff": {
+        "title": "Başlangıç",
+        "date": "[Tarih girilecek]"
+      },
+      "submission": {
+        "title": "Başvuru Dönemi",
+        "duration": "7 gün"
+      },
+      "voting": {
+        "title": "Oylama Dönemi",
+        "duration": "Topluluk (2 gün) + Jüri (5 gün)"
+      }
+    },
+    "evaluation": {
+      "title": "Değerlendirme Kriterleri",
+      "phase1": {
+        "title": "Aşama 1: Topluluk Oylaması",
+        "description": "X'te halk oylamasıyla ilk 5'e girin."
+      },
+      "phase2": {
+        "title": "Aşama 2: Jüri",
+        "description": "Teknik uygulama, Midl hakimiyeti ve ürün hissi değerlendirilir."
+      }
+    }
+  },
+  "toolkit": {
+    "title": "Geliştirici Araç Seti",
+    "subtitle": "Karmaşıklığı kaldırdık, böylece inşa etmeye odaklanabilirsiniz.",
+    "tools": {
+      "sdk": "Midl SDK",
+      "docs": "Dokümantasyon",
+      "github": "Github Deposu",
+      "faucet": "Musluk",
+      "midlExplorer": "Midl Gezgini",
+      "btcExplorer": "Bitcoin Gezgini"
+    },
+    "support": {
+      "title": "Destek ve Atmosfer",
+      "description": "Sohbete katılın, takım arkadaşları bulun ve zaferlerinizi paylaşın.",
+      "button": "Discord'a Katıl"
+    }
+  },
+  "cta": {
+    "title": "Bitcoin'in geleceğini inşa etmeye hazır mısınız?",
+    "subtitle": "Araçlar hazır. Ödül havuzu belirlendi. Tek eksik olan sizsiniz.",
+    "button": "dApp'inizi Gönderin"
+  },
+  "footer": {
+    "copyright": "© {{year}} Midl. Tüm hakları saklıdır."
+  },
+  "languageToggle": {
+    "en": "EN",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "ES",
+    "fr": "FR",
+    "ar": "العربية",
+    "tr": "TR",
+    "hi": "हिंदी"
+  }
+}

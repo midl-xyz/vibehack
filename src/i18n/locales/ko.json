@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Midl VibeHack BTC",
+    "title": {
+      "line1": "비트코인 위에 구축하는 것은",
+      "line2": "어려웠습니다."
+    },
+    "subtitle": {
+      "line1": "이제는 아닙니다.",
+      "line2": "Midl Vibe 코딩 대회에 오신 것을 환영합니다.",
+      "line3": "이것은 평범한 해커톤이 아닙니다, 이것은 놀이터입니다."
+    },
+    "buttons": {
+      "learnMore": "더 알아보기",
+      "submit": "dApp 제출하기"
+    },
+    "deadline": "마감일 전",
+    "typewriter": "이것은 우리의 가장 경험 많은 개발자가 만들었습니다. 그는 코드 한 줄도 보지 않았습니다. 받아들이세요"
+  },
+  "mission": {
+    "title": "미션",
+    "lead": "\"만약에?\"에서 \"거래 확인됨\"으로.",
+    "cards": {
+      "vibeCode": {
+        "title": "Vibe 코드",
+        "description": "원시 아이디어를 가져와 AI를 사용하여 개발을 가속화하고, 몇 달이 아닌 며칠 만에 Midl의 테스트넷에서 작동하는 컨셉을 실행하세요."
+      },
+      "midlPower": {
+        "title": "Midl 파워",
+        "description": "Midl 인프라의 마찰 없는 힘을 경험하세요. 프롬프트하는 방법을 알면, 비트코인에서 구축하는 방법도 이미 알고 있는 것입니다."
+      },
+      "makeItPop": {
+        "title": "돋보이게 하세요",
+        "description": "우리는 비주얼 기준을 높이고 있습니다. 기본 UI는 없습니다. 당신의 앱은 제품처럼 느껴져야 합니다."
+      }
+    },
+    "requirements": {
+      "title": "요구사항",
+      "steps": {
+        "step1": {
+          "title": "프론트엔드 디자인",
+          "description": "적절한 UI로 AI 디자인 스킬을 보여주세요."
+        },
+        "step2": {
+          "title": "사용자 흐름",
+          "description": "사용자가 UI에서 작업을 트리거합니다."
+        },
+        "step3": {
+          "title": "로직 & 상호작용",
+          "description": "작업이 Midl 인프라(RPC/SDK)와 상호작용합니다."
+        },
+        "step4": {
+          "title": "온체인 증명",
+          "description": "결과는 트랜잭션 해시로 검증 가능합니다."
+        },
+        "step5": {
+          "title": "피드백 루프",
+          "description": "UI가 새로운 상태를 반영하여 업데이트됩니다."
+        }
+      }
+    },
+    "deliverables": {
+      "title": "필수 제출물",
+      "subtitle": "로컬에서 실행되면 배포가 필요하지 않습니다.",
+      "items": {
+        "videoDemo": {
+          "title": "비디오 데모",
+          "description": "전체 루프: 앱 프레젠테이션, 지갑 연결, 사용자 작업, 서명, UI 업데이트."
+        },
+        "transactionProof": {
+          "title": "거래 증명",
+          "description": "배포된 컨트랙트와 성공한 거래 링크."
+        },
+        "codeRepository": {
+          "title": "코드 저장소",
+          "description": "저장소 링크 또는 코드 워크스루 비디오."
+        },
+        "publicPost": {
+          "title": "공개 게시물",
+          "description": "제출물 소셜 게시물 링크."
+        }
+      }
+    }
+  },
+  "timeline": {
+    "title": "계획",
+    "sectionTitle": "타임라인",
+    "prizes": {
+      "grand": {
+        "title": "대상",
+        "amount": "$1000 USDT",
+        "description": "최고의 vibe 코더에게."
+      },
+      "community": {
+        "title": "커뮤니티 상",
+        "amount": "CLAUDE 크레딧",
+        "description": "상위 5개 항목에 $200 크레딧"
+      }
+    },
+    "phases": {
+      "kickoff": {
+        "title": "킥오프",
+        "date": "[날짜 입력]"
+      },
+      "submission": {
+        "title": "제출 기간",
+        "duration": "7일"
+      },
+      "voting": {
+        "title": "투표 기간",
+        "duration": "커뮤니티 (2일) + 위원회 (5일)"
+      }
+    },
+    "evaluation": {
+      "title": "평가 기준",
+      "phase1": {
+        "title": "1단계: 커뮤니티 투표",
+        "description": "X에서 공개 투표로 상위 5명 선정."
+      },
+      "phase2": {
+        "title": "2단계: 위원회",
+        "description": "기술 실행, Midl 숙련도, 제품 감각으로 심사."
+      }
+    }
+  },
+  "toolkit": {
+    "title": "빌더스 툴킷",
+    "subtitle": "복잡성을 제거하여 구축에 집중할 수 있도록 했습니다.",
+    "tools": {
+      "sdk": "Midl SDK",
+      "docs": "문서",
+      "github": "Github 저장소",
+      "faucet": "파우셋",
+      "midlExplorer": "Midl 익스플로러",
+      "btcExplorer": "비트코인 익스플로러"
+    },
+    "support": {
+      "title": "지원 & 바이브",
+      "description": "대화에 참여하고, 팀원을 찾고, 승리를 공유하세요.",
+      "button": "Discord 가입"
+    }
+  },
+  "cta": {
+    "title": "비트코인의 미래를 구축할 준비가 되셨나요?",
+    "subtitle": "도구가 준비되었습니다. 상금 풀이 설정되었습니다. 빠진 것은 당신뿐입니다.",
+    "button": "dApp 제출하기"
+  },
+  "footer": {
+    "copyright": "© {{year}} Midl. All rights reserved."
+  },
+  "languageToggle": {
+    "en": "EN",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "ES",
+    "fr": "FR",
+    "ar": "العربية",
+    "tr": "TR",
+    "hi": "हिंदी"
+  }
+}

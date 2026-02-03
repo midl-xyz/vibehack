@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Midl VibeHack BTC",
+    "title": {
+      "line1": "Construir en Bitcoin",
+      "line2": "solía ser difícil."
+    },
+    "subtitle": {
+      "line1": "Ya no más.",
+      "line2": "Bienvenido al concurso Midl Vibe Coding.",
+      "line3": "Esto no es tu hackathon estándar, esto es un patio de juegos."
+    },
+    "buttons": {
+      "learnMore": "Más información",
+      "submit": "Enviar tu dApp"
+    },
+    "deadline": "Antes de la FECHA LÍMITE",
+    "typewriter": "Esto fue construido por nuestro desarrollador más experimentado. No miró ni una línea de código. Acéptalo"
+  },
+  "mission": {
+    "title": "La Misión",
+    "lead": "De \"¿Y si...?\" a \"Transacción Confirmada.\"",
+    "cards": {
+      "vibeCode": {
+        "title": "Vibe Code",
+        "description": "Toma una idea cruda, usa IA para acelerar el desarrollo y ejecuta un concepto funcional en la testnet de Midl en días, no meses."
+      },
+      "midlPower": {
+        "title": "Poder Midl",
+        "description": "Experimenta el poder sin fricción de la infraestructura Midl. Si sabes cómo hacer prompts, ya sabes cómo construir en Bitcoin."
+      },
+      "makeItPop": {
+        "title": "Hazlo Destacar",
+        "description": "Estamos elevando el estándar visual. Sin UIs por defecto. Tu app debe sentirse como un producto."
+      }
+    },
+    "requirements": {
+      "title": "Los Requisitos",
+      "steps": {
+        "step1": {
+          "title": "Diseño Frontend",
+          "description": "Demuestra tus habilidades de diseño IA con una UI apropiada."
+        },
+        "step2": {
+          "title": "Flujo de Usuario",
+          "description": "Un usuario dispara una acción en tu UI."
+        },
+        "step3": {
+          "title": "Lógica e Interacción",
+          "description": "La acción interactúa con la infraestructura Midl (RPC/SDK)."
+        },
+        "step4": {
+          "title": "Prueba On-Chain",
+          "description": "Resultado verificable mediante hash de transacción."
+        },
+        "step5": {
+          "title": "Bucle de Retroalimentación",
+          "description": "La UI se actualiza para reflejar el nuevo estado."
+        }
+      }
+    },
+    "deliverables": {
+      "title": "Entregables Requeridos",
+      "subtitle": "El despliegue no es requerido si funciona localmente.",
+      "items": {
+        "videoDemo": {
+          "title": "Demo en Video",
+          "description": "Bucle completo: Presentación de app, Conexión de wallet, Acción de usuario, Firma, Actualización de UI."
+        },
+        "transactionProof": {
+          "title": "Prueba de Transacción",
+          "description": "Enlaces a contratos desplegados y transacciones exitosas."
+        },
+        "codeRepository": {
+          "title": "Repositorio de Código",
+          "description": "Enlace al repo o video de recorrido del código."
+        },
+        "publicPost": {
+          "title": "Publicación Pública",
+          "description": "Enlace a tu publicación social de envío."
+        }
+      }
+    }
+  },
+  "timeline": {
+    "title": "El Plan",
+    "sectionTitle": "Cronograma",
+    "prizes": {
+      "grand": {
+        "title": "Gran Premio",
+        "amount": "$1000 USDT",
+        "description": "Para el programador vibe definitivo."
+      },
+      "community": {
+        "title": "Premio Comunidad",
+        "amount": "Créditos CLAUDE",
+        "description": "$200 en créditos para las 5 mejores entradas"
+      }
+    },
+    "phases": {
+      "kickoff": {
+        "title": "Inicio",
+        "date": "[INSERTAR FECHA]"
+      },
+      "submission": {
+        "title": "Ventana de Envío",
+        "duration": "7 Días"
+      },
+      "voting": {
+        "title": "Período de Votación",
+        "duration": "Comunidad (2 días) + Consejo (5 días)"
+      }
+    },
+    "evaluation": {
+      "title": "Criterios de Evaluación",
+      "phase1": {
+        "title": "Fase 1: Voto Comunitario",
+        "description": "Top 5 preseleccionado por voto público en X."
+      },
+      "phase2": {
+        "title": "Fase 2: El Consejo",
+        "description": "Juzgado por Ejecución Técnica, Dominio de Midl y Sensación de Producto."
+      }
+    }
+  },
+  "toolkit": {
+    "title": "El Kit del Constructor",
+    "subtitle": "Eliminamos la complejidad para que puedas enfocarte en construir.",
+    "tools": {
+      "sdk": "Midl SDK",
+      "docs": "Documentación",
+      "github": "Repo Github",
+      "faucet": "Faucet",
+      "midlExplorer": "Explorador Midl",
+      "btcExplorer": "Explorador Bitcoin"
+    },
+    "support": {
+      "title": "Soporte & Vibes",
+      "description": "Únete a la conversación, encuentra compañeros de equipo y comparte tus victorias.",
+      "button": "Unirse a Discord"
+    }
+  },
+  "cta": {
+    "title": "¿Listo para construir el futuro de Bitcoin?",
+    "subtitle": "Las herramientas están listas. El premio está establecido. Lo único que falta eres tú.",
+    "button": "Enviar Tu dApp"
+  },
+  "footer": {
+    "copyright": "© {{year}} Midl. Todos los derechos reservados."
+  },
+  "languageToggle": {
+    "en": "EN",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "ES",
+    "fr": "FR",
+    "ar": "العربية",
+    "tr": "TR",
+    "hi": "हिंदी"
+  }
+}
