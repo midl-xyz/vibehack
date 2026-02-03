@@ -1,4 +1,5 @@
 import React from 'react';
+import { SocialLinks } from './SocialIcons';
 
 const Footer: React.FC = () => {
   return (
@@ -6,11 +7,7 @@ const Footer: React.FC = () => {
       <div className="footer-bottom">
         <div className="container">
           <p>© {new Date().getFullYear()} Midl. All rights reserved.</p>
-          <div className="footer-socials">
-            <a href="https://x.com/midl_xyz" target="_blank" rel="noreferrer">𝕏</a>
-            <a href="https://discord.com/invite/midl" target="_blank" rel="noreferrer">👾</a>
-            <a href="https://t.me/midl_xyz" target="_blank" rel="noreferrer">✈️</a>
-          </div>
+          <SocialLinks size={20} className="footer-socials" />
         </div>
       </div>
 
@@ -42,18 +39,19 @@ const Footer: React.FC = () => {
         }
 
         .footer-socials {
-            display: flex;
+            color: rgba(255,255,255,0.6);
+        }
+
+        .footer-socials.social-links-container {
             gap: 1.5rem;
         }
 
-        .footer-socials a {
-            font-size: 1.2rem;
-            opacity: 0.7;
-            transition: opacity 0.2s;
+        .footer-socials .social-link-item {
+            color: rgba(255,255,255,0.6);
         }
 
-        .footer-socials a:hover {
-            opacity: 1;
+        .footer-socials .social-link-item:hover {
+            color: white;
         }
 
         @media (max-width: 600px) {

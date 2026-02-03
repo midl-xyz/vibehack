@@ -83,22 +83,18 @@ const Mission: React.FC = () => {
 
           <div className="deliverables-grid">
             <div className="deliverable-card">
-              <span className="icon">🎥</span>
               <h4>Video Demo</h4>
               <p>Full loop: App presentation, Wallet connect, User Action, Sign, UI Update.</p>
             </div>
             <div className="deliverable-card">
-              <span className="icon">⛓️</span>
               <h4>Transaction Proof</h4>
               <p>Links to deployed contracts and successful transactions.</p>
             </div>
             <div className="deliverable-card">
-              <span className="icon">💻</span>
               <h4>Code Repository</h4>
               <p>Link to repo or code walkthrough video.</p>
             </div>
             <div className="deliverable-card">
-              <span className="icon">📢</span>
               <h4>Public Post</h4>
               <p>Link to your submission social post.</p>
             </div>
@@ -198,7 +194,7 @@ const Mission: React.FC = () => {
             display: flex;
             align-items: center;
             justify-content: center;
-            font-weight: bold;
+            font-weight: 500;
             font-size: 1.2rem;
             margin: 0 auto 1rem;
             box-shadow: 0 0 15px rgba(247, 147, 26, 0.2);
@@ -245,6 +241,13 @@ const Mission: React.FC = () => {
             border-radius: var(--radius-sm);
             text-align: center;
             border: 1px solid var(--color-border);
+        }
+
+        .deliverable-card h4 {
+            color: var(--color-accent-primary);
+            font-size: 1.2rem;
+            font-weight: 500;
+            margin-bottom: 0.75rem;
         }
 
         .deliverable-card .icon {

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { X, ArrowRight } from 'lucide-react';
-import ctaBg from '../assets/cta-bg.png';
+import ctaBg from '../assets/cta-bg.jpeg';
 
 const CTASection: React.FC = () => {
     const [isModalOpen, setIsModalOpen] = useState(false);
@@ -55,7 +55,7 @@ const CTASection: React.FC = () => {
             background-image: url("${ctaBg}");
             background-size: cover;
             background-position: center;
-            opacity: 0.4;
+            opacity: 0.85;
             pointer-events: none;
         }
 
@@ -85,17 +85,19 @@ const CTASection: React.FC = () => {
         .cta-title {
           font-size: clamp(2.5rem, 5vw, 4rem);
           margin-bottom: 1.5rem;
-          color: var(--color-text-main);
+          color: #fff;
           letter-spacing: -1px;
+          text-shadow: 0 2px 10px rgba(0,0,0,0.3);
         }
 
         .cta-subtitle {
           font-size: 1.25rem;
-          color: var(--color-text-muted);
+          color: rgba(255,255,255,0.9);
           margin-bottom: 3rem;
           max-width: 600px;
           margin-left: auto;
           margin-right: auto;
+          text-shadow: 0 1px 5px rgba(0,0,0,0.2);
         }
 
         .btn.lg {
@@ -103,6 +105,15 @@ const CTASection: React.FC = () => {
             padding: 1.25rem 3rem;
             border-radius: 100px;
             gap: 12px;
+            background: #fff;
+            color: #000;
+            border: none;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .btn.lg:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
         }
         
         .modal-overlay {

@@ -6,7 +6,7 @@ const Toolkit: React.FC = () => {
     { name: 'Midl SDK', url: 'https://js.midl.xyz/', icon: <Box /> },
     { name: 'Documentation', url: 'https://v2.js.midl.xyz/docs', icon: <Book /> },
     { name: 'Github Repo', url: 'https://github.com/midl-xyz/midl-js', icon: <Terminal /> },
-    { name: 'Faucet', url: 'https://faucet.regtest.midl.xyz', icon: <ExternalLink /> },
+    { name: 'Faucet', url: 'https://faucet.midl.xyz/', icon: <ExternalLink /> },
     { name: 'Midl Explorer', url: 'https://blockscout.staging.midl.xyz', icon: <ExternalLink /> },
     { name: 'Bitcoin Explorer', url: 'https://mempool.staging.midl.xyz', icon: <ExternalLink /> },
   ];
@@ -91,8 +91,7 @@ const Toolkit: React.FC = () => {
 
         .arrow {
           margin-top: 1rem;
-          opacity: 0;
-          transform: translateX(-10px);
+          opacity: 1;
           transition: all 0.3s;
           color: var(--color-accent-primary);
         }
@@ -104,7 +103,7 @@ const Toolkit: React.FC = () => {
 
         .support-vibes {
           background: var(--color-bg-focus);
-          border: 1px solid var(--color-border);
+          border: 2px solid var(--color-accent-primary);
           padding: 3rem;
           border-radius: var(--radius-md);
           text-align: center;
@@ -126,20 +125,21 @@ const Toolkit: React.FC = () => {
         }
 
         .btn-discord {
-          background: #5865F2;
-          color: white;
-          padding: 12px 32px;
+          background: var(--gradient-accent);
+          color: #fff;
+          border: none;
+          padding: 14px 32px;
           border-radius: 100px;
-          font-weight: 700;
+          font-weight: 500;
           display: inline-block;
           text-decoration: none;
-          transition: all 0.2s;
-          box-shadow: none; /* Flat design */
+          transition: all 0.3s ease;
+          box-shadow: 0 4px 15px rgba(255, 126, 61, 0.3);
         }
-        
+
         .btn-discord:hover {
           transform: translateY(-2px);
-          opacity: 0.9;
+          box-shadow: 0 6px 20px rgba(255, 126, 61, 0.4);
         }
       `}</style>
     </section>

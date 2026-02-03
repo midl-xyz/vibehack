@@ -21,8 +21,8 @@ const Timeline: React.FC = () => {
             <Trophy size={48} className="icon-silver" />
             <div className="prize-content">
               <h3>Community Prize</h3>
-              <p className="prize-amount">Claude Pro</p>
-              <p>1 Year Sub for Top 5 Entries.</p>
+              <p className="prize-amount">CLAUDE Credits</p>
+              <p>$200 of credits for top 5 entries</p>
             </div>
           </div>
         </div>
@@ -123,7 +123,7 @@ const Timeline: React.FC = () => {
 
         .prize-amount {
           font-size: 2.5rem;
-          font-weight: 800;
+          font-weight: 500;
           color: var(--color-text-main);
           margin: 0;
           line-height: 1;
