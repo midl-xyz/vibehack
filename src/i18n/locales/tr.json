@@ -100,7 +100,8 @@
         "xverse": {
           "tag": "Xverse Scale-Up Paketi",
           "value": "Değeri $490 + Mentorluk",
-          "details": "5 Aylık Geliştirici Planı + RPC Erişimi, Xverse mühendislik ekibiyle özel Slack/Discord, Ortak Grup Onboarding"
+          "bullet1": "5 Aylık Geliştirici Planı + RPC Erişimi",
+          "bullet2": "Doğrudan Mentorluk: Discord'da Xverse mühendislik ekibine erişim ve özel Ortak Grup Onboarding oturumu"
         },
         "badge": "Konsey Tarafından Seçildi"
       },
@@ -110,7 +111,8 @@
         "xverse": {
           "tag": "Xverse Builders Paketi",
           "value": "Değeri $294 + Mentorluk",
-          "details": "3 Aylık Geliştirici Planı + RPC Erişimi, Özel Slack/Discord, Ortak Grup Onboarding"
+          "bullet1": "3 Aylık Geliştirici Planı + RPC Erişimi",
+          "bullet2": "Doğrudan Mentorluk: Discord'da Xverse mühendislik ekibine erişim ve özel Ortak Grup Onboarding oturumu"
         }
       },
       "third": {
@@ -119,7 +121,8 @@
         "xverse": {
           "tag": "Xverse Kickstart Paketi",
           "value": "Değeri $196",
-          "details": "2 Aylık Geliştirici Planı + RPC Erişimi, Ortak Grup Onboarding"
+          "bullet1": "2 Aylık Geliştirici Planı + RPC Erişimi",
+          "bullet2": "Özel Ortak Grup Onboarding oturumuna erişim"
         }
       },
       "fourth": {

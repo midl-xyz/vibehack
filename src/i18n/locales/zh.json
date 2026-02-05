@@ -100,7 +100,8 @@
         "xverse": {
           "tag": "Xverse 成长套餐",
           "value": "价值 $490 + 导师指导",
-          "details": "5个月开发者计划 + RPC 访问，与 Xverse 工程团队的私人 Slack/Discord，联合团体入门培训"
+          "bullet1": "5个月开发者计划 + RPC 访问",
+          "bullet2": "直接导师指导：在 Discord 上与 Xverse 工程团队交流及专属联合团体入门培训"
         },
         "badge": "评委会精选"
       },
@@ -110,7 +111,8 @@
         "xverse": {
           "tag": "Xverse 构建者套餐",
           "value": "价值 $294 + 导师指导",
-          "details": "3个月开发者计划 + RPC 访问，私人 Slack/Discord，联合团体入门培训"
+          "bullet1": "3个月开发者计划 + RPC 访问",
+          "bullet2": "直接导师指导：在 Discord 上与 Xverse 工程团队交流及专属联合团体入门培训"
         }
       },
       "third": {
@@ -119,7 +121,8 @@
         "xverse": {
           "tag": "Xverse 启动套餐",
           "value": "价值 $196",
-          "details": "2个月开发者计划 + RPC 访问，联合团体入门培训"
+          "bullet1": "2个月开发者计划 + RPC 访问",
+          "bullet2": "参加专属联合团体入门培训"
         }
       },
       "fourth": {

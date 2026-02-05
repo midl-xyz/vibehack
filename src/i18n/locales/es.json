@@ -100,7 +100,8 @@
         "xverse": {
           "tag": "Paquete Xverse Scale-Up",
           "value": "Valor $490 + Mentoría",
-          "details": "5 Meses Plan Desarrollador + Acceso RPC, Slack/Discord privado con equipo de ingeniería Xverse, Onboarding grupal conjunto"
+          "bullet1": "5 Meses de Plan Desarrollador + Acceso RPC",
+          "bullet2": "Mentoría directa: Acceso al equipo de ingeniería Xverse en Discord y sesión exclusiva de Onboarding grupal"
         },
         "badge": "Seleccionado por el Consejo"
       },
@@ -110,7 +111,8 @@
         "xverse": {
           "tag": "Paquete Xverse Builders",
           "value": "Valor $294 + Mentoría",
-          "details": "3 Meses Plan Desarrollador + Acceso RPC, Slack/Discord privado, Onboarding grupal conjunto"
+          "bullet1": "3 Meses de Plan Desarrollador + Acceso RPC",
+          "bullet2": "Mentoría directa: Acceso al equipo de ingeniería Xverse en Discord y sesión exclusiva de Onboarding grupal"
         }
       },
       "third": {
@@ -119,7 +121,8 @@
         "xverse": {
           "tag": "Paquete Xverse Kickstart",
           "value": "Valor $196",
-          "details": "2 Meses Plan Desarrollador + Acceso RPC, Onboarding grupal conjunto"
+          "bullet1": "2 Meses de Plan Desarrollador + Acceso RPC",
+          "bullet2": "Acceso a la sesión exclusiva de Onboarding grupal"
         }
       },
       "fourth": {

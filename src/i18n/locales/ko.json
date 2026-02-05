@@ -100,7 +100,8 @@
         "xverse": {
           "tag": "Xverse 스케일업 패키지",
           "value": "$490 가치 + 멘토십",
-          "details": "5개월 개발자 플랜 + RPC 접근, Xverse 엔지니어링 팀과 비공개 Slack/Discord, 공동 그룹 온보딩"
+          "bullet1": "5개월 개발자 플랜 + RPC 접근",
+          "bullet2": "직접 멘토십: Discord에서 Xverse 엔지니어링 팀 접근 및 독점 공동 그룹 온보딩 세션"
         },
         "badge": "위원회 선정"
       },
@@ -110,7 +111,8 @@
         "xverse": {
           "tag": "Xverse 빌더스 패키지",
           "value": "$294 가치 + 멘토십",
-          "details": "3개월 개발자 플랜 + RPC 접근, 비공개 Slack/Discord, 공동 그룹 온보딩"
+          "bullet1": "3개월 개발자 플랜 + RPC 접근",
+          "bullet2": "직접 멘토십: Discord에서 Xverse 엔지니어링 팀 접근 및 독점 공동 그룹 온보딩 세션"
         }
       },
       "third": {
@@ -119,7 +121,8 @@
         "xverse": {
           "tag": "Xverse 킥스타트 패키지",
           "value": "$196 가치",
-          "details": "2개월 개발자 플랜 + RPC 접근, 공동 그룹 온보딩"
+          "bullet1": "2개월 개발자 플랜 + RPC 접근",
+          "bullet2": "독점 공동 그룹 온보딩 세션 접근"
         }
       },
       "fourth": {
