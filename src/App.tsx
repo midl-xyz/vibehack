@@ -1,7 +1,7 @@
 import Hero from './components/Hero';
 import Mission from './components/Mission';
 import Timeline from './components/Timeline';
-import Council from './components/Council';
+// import Council from './components/Council';
 import Toolkit from './components/Toolkit';
 import CTASection from './components/CTASection';
 import Footer from './components/Footer';
