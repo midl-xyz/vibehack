@@ -75,8 +75,6 @@ const Timeline: React.FC = () => {
               <div className="prize-credits">{t('timeline.prizes.fifth.credits')}</div>
             </div>
           </div>
-
-          <p className="prize-note">{t('timeline.prizes.note')}</p>
         </div>
 
         <div className="split-layout">
@@ -292,14 +290,6 @@ const Timeline: React.FC = () => {
 
         .prize-runner .prize-credits {
           font-size: 1rem;
-        }
-
-        .prize-note {
-          text-align: center;
-          color: var(--color-text-muted);
-          font-size: 0.85rem;
-          font-style: italic;
-          margin-top: 1.5rem;
         }
 
         /* Timeline & Split Layout */

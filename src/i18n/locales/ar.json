@@ -95,7 +95,7 @@
       "note": "أفضل 5 يتم اختيارهم بالتصويت العام",
       "first": {
         "place": "المركز الأول",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "+ $200 رصيد Claude",
         "xverse": {
           "tag": "حزمة Xverse للتوسع",
@@ -178,7 +178,7 @@
       "midlExplorer": "مستكشف Midl",
       "btcExplorer": "مستكشف البيتكوين",
       "xverse": "محفظة Xverse",
-      "contestDetails": "تفاصيل المسابقة"
+      "contestDetails": "مقال المسابقة"
     },
     "support": {
       "title": "الدعم والأجواء",

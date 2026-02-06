@@ -95,7 +95,7 @@
       "note": "上位5名は公開投票で選出",
       "first": {
         "place": "1位",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "+ $200 Claude クレジット",
         "xverse": {
           "tag": "Xverse スケールアップパッケージ",
@@ -178,7 +178,7 @@
       "midlExplorer": "Midlエクスプローラー",
       "btcExplorer": "ビットコインエクスプローラー",
       "xverse": "Xverse ウォレット",
-      "contestDetails": "コンテスト詳細"
+      "contestDetails": "コンテスト記事"
     },
     "support": {
       "title": "サポート＆雰囲気",

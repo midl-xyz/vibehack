@@ -95,7 +95,7 @@
       "note": "Halk oylamasıyla seçilen ilk 5",
       "first": {
         "place": "1. Sıra",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "+ $200 Claude Kredisi",
         "xverse": {
           "tag": "Xverse Scale-Up Paketi",
@@ -178,7 +178,7 @@
       "midlExplorer": "Midl Gezgini",
       "btcExplorer": "Bitcoin Gezgini",
       "xverse": "Xverse Wallet",
-      "contestDetails": "Yarışma Detayları"
+      "contestDetails": "Yarışma Makalesi"
     },
     "support": {
       "title": "Destek ve Atmosfer",

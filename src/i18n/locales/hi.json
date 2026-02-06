@@ -95,7 +95,7 @@
       "note": "सार्वजनिक वोट द्वारा शीर्ष 5 चुने गए",
       "first": {
         "place": "प्रथम स्थान",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "+ $200 Claude क्रेडिट",
         "xverse": {
           "tag": "Xverse स्केल-अप पैकेज",
@@ -178,7 +178,7 @@
       "midlExplorer": "Midl एक्सप्लोरर",
       "btcExplorer": "बिटकॉइन एक्सप्लोरर",
       "xverse": "Xverse वॉलेट",
-      "contestDetails": "प्रतियोगिता विवरण"
+      "contestDetails": "प्रतियोगिता लेख"
     },
     "support": {
       "title": "सपोर्ट और वाइब्स",

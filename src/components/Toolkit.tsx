@@ -13,7 +13,7 @@ const Toolkit: React.FC = () => {
     { nameKey: 'toolkit.tools.midlExplorer', url: 'https://blockscout.staging.midl.xyz', icon: <ExternalLink /> },
     { nameKey: 'toolkit.tools.btcExplorer', url: 'https://mempool.staging.midl.xyz', icon: <ExternalLink /> },
     { nameKey: 'toolkit.tools.xverse', url: 'https://www.xverse.app/download', icon: <Wallet /> },
-    { nameKey: 'toolkit.tools.contestDetails', url: '#', icon: <FileText /> },
+    { nameKey: 'toolkit.tools.contestDetails', url: 'https://midl.xyz/blog/Midl-VibeHack-BTC', icon: <FileText /> },
   ];
 
   return (

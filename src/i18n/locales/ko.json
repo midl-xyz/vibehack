@@ -95,7 +95,7 @@
       "note": "공개 투표로 상위 5명 선정",
       "first": {
         "place": "1등",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "+ $200 Claude 크레딧",
         "xverse": {
           "tag": "Xverse 스케일업 패키지",
@@ -178,7 +178,7 @@
       "midlExplorer": "Midl 익스플로러",
       "btcExplorer": "비트코인 익스플로러",
       "xverse": "Xverse 지갑",
-      "contestDetails": "대회 상세정보"
+      "contestDetails": "대회 기사"
     },
     "support": {
       "title": "지원 & 바이브",

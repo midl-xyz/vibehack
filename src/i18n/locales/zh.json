@@ -95,7 +95,7 @@
       "note": "前5名由公众投票选出",
       "first": {
         "place": "第1名",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "+ $200 Claude 积分",
         "xverse": {
           "tag": "Xverse 成长套餐",
@@ -178,7 +178,7 @@
       "midlExplorer": "Midl 浏览器",
       "btcExplorer": "比特币浏览器",
       "xverse": "Xverse 钱包",
-      "contestDetails": "大赛详情"
+      "contestDetails": "大赛文章"
     },
     "support": {
       "title": "支持与氛围",

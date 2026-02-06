@@ -95,7 +95,7 @@
       "note": "Top 5 selected by public vote",
       "first": {
         "place": "1st",
-        "cash": "$1000 USDT",
+        "cash": "$1000 in BTC",
         "credits": "$200 Claude Credits",
         "xverse": {
           "tag": "Xverse Scale-Up Package",
@@ -178,7 +178,7 @@
       "midlExplorer": "Midl Explorer",
       "btcExplorer": "Bitcoin Explorer",
       "xverse": "Xverse Wallet",
-      "contestDetails": "Contest Details"
+      "contestDetails": "Contest Article"
     },
     "support": {
       "title": "Support & Vibes",
