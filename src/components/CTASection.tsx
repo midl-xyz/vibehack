@@ -31,7 +31,7 @@ const CTASection: React.FC = () => {
                             <X size={24} />
                         </button>
                         <iframe
-                            src="https://quasar-orbit-aa5.notion.site/ebd//2f6362757c9880e981c3d60161bec9f3"
+                            src="https://quasar-orbit-aa5.notion.site/ebd//302362757c9880849793deaa0756bbbc"
                             width="100%"
                             height="100%"
                             frameBorder="0"
