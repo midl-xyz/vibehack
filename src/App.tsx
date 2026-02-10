@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import Hero from './components/Hero';
 import Mission from './components/Mission';
 import Timeline from './components/Timeline';
@@ -17,6 +18,7 @@ function App() {
       <Toolkit />
       <CTASection />
       <Footer />
+      <Analytics />
     </div>
   );
 }
