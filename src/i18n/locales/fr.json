@@ -171,9 +171,9 @@
     "title": "La Boîte à Outils du Bâtisseur",
     "subtitle": "Nous avons éliminé la complexité pour que vous puissiez vous concentrer sur la construction.",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "Documentation",
-      "github": "Repo Github",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "Faucet",
       "midlExplorer": "Explorateur Midl",
       "btcExplorer": "Explorateur Bitcoin",

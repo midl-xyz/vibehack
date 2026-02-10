@@ -171,9 +171,9 @@
     "title": "Geliştirici Araç Seti",
     "subtitle": "Karmaşıklığı kaldırdık, böylece inşa etmeye odaklanabilirsiniz.",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "Dokümantasyon",
-      "github": "Github Deposu",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "Musluk",
       "midlExplorer": "Midl Gezgini",
       "btcExplorer": "Bitcoin Gezgini",

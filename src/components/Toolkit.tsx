@@ -6,9 +6,9 @@ const Toolkit: React.FC = () => {
   const { t } = useTranslation();
 
   const tools = [
-    { nameKey: 'toolkit.tools.sdk', url: 'https://js.midl.xyz/', icon: <Box /> },
-    { nameKey: 'toolkit.tools.docs', url: 'https://v2.js.midl.xyz/docs', icon: <Book /> },
-    { nameKey: 'toolkit.tools.github', url: 'https://github.com/midl-xyz/midl-js', icon: <Terminal /> },
+    { nameKey: 'toolkit.tools.sdk', url: 'https://js.midl.xyz', icon: <Book /> },
+    { nameKey: 'toolkit.tools.docs', url: 'https://js.midl.xyz/llms.txt', icon: <Box /> },
+    { nameKey: 'toolkit.tools.github', url: 'https://github.com/midl-xyz/dapp-demo', icon: <Terminal /> },
     { nameKey: 'toolkit.tools.faucet', url: 'https://faucet.midl.xyz/', icon: <ExternalLink /> },
     { nameKey: 'toolkit.tools.midlExplorer', url: 'https://blockscout.staging.midl.xyz', icon: <ExternalLink /> },
     { nameKey: 'toolkit.tools.btcExplorer', url: 'https://mempool.staging.midl.xyz', icon: <ExternalLink /> },

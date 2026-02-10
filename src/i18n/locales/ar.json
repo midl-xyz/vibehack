@@ -171,9 +171,9 @@
     "title": "مجموعة أدوات البناء",
     "subtitle": "أزلنا التعقيد حتى تتمكن من التركيز على البناء.",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "التوثيق",
-      "github": "مستودع Github",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "الصنبور",
       "midlExplorer": "مستكشف Midl",
       "btcExplorer": "مستكشف البيتكوين",

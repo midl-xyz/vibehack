@@ -171,9 +171,9 @@
     "title": "The Builder's Toolkit",
     "subtitle": "We've stripped away the complexity so you can focus on building.",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "Documentation",
-      "github": "Github Repo",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "Faucet",
       "midlExplorer": "Midl Explorer",
       "btcExplorer": "Bitcoin Explorer",

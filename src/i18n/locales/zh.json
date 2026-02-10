@@ -171,9 +171,9 @@
     "title": "构建者工具包",
     "subtitle": "我们消除了复杂性，让你专注于构建。",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "文档",
-      "github": "Github 仓库",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "水龙头",
       "midlExplorer": "Midl 浏览器",
       "btcExplorer": "比特币浏览器",

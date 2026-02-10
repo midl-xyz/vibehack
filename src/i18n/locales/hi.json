@@ -171,9 +171,9 @@
     "title": "बिल्डर टूलकिट",
     "subtitle": "हमने जटिलता हटा दी ताकि आप निर्माण पर ध्यान केंद्रित कर सकें।",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "डॉक्यूमेंटेशन",
-      "github": "Github रिपॉजिटरी",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "फॉसेट",
       "midlExplorer": "Midl एक्सप्लोरर",
       "btcExplorer": "बिटकॉइन एक्सप्लोरर",

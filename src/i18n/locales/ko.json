@@ -171,9 +171,9 @@
     "title": "빌더스 툴킷",
     "subtitle": "복잡성을 제거하여 구축에 집중할 수 있도록 했습니다.",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "문서",
-      "github": "Github 저장소",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "파우셋",
       "midlExplorer": "Midl 익스플로러",
       "btcExplorer": "비트코인 익스플로러",

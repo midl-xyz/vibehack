@@ -171,9 +171,9 @@
     "title": "ビルダーズツールキット",
     "subtitle": "複雑さを取り除き、構築に集中できるようにしました。",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "ドキュメント",
-      "github": "Githubリポジトリ",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "フォーセット",
       "midlExplorer": "Midlエクスプローラー",
       "btcExplorer": "ビットコインエクスプローラー",

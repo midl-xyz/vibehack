@@ -171,9 +171,9 @@
     "title": "El Kit del Constructor",
     "subtitle": "Eliminamos la complejidad para que puedas enfocarte en construir.",
     "tools": {
-      "sdk": "Midl SDK",
-      "docs": "Documentación",
-      "github": "Repo Github",
+      "sdk": "Docs",
+      "docs": "AI Toolkit",
+      "github": "Frontend Examples Repo",
       "faucet": "Faucet",
       "midlExplorer": "Explorador Midl",
       "btcExplorer": "Explorador Bitcoin",
